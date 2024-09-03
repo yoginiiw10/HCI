@@ -1,8 +1,0 @@
-<?xml version="ISO-8859-1"?>
-<Column name="media" attribute="time" width="180" xmlns="ch.idiap.jferret.plugin">
- <Slide src="thumb/IS1000d.762.53__943.08.jpg" target="media" attribute="move" value="0752530"/>
- <Slide src="thumb/IS1000d.943.08__949.38.jpg" target="media" attribute="move" value="0933080"/>
- <Slide src="thumb/IS1000d.949.38__1592.16.jpg" target="media" attribute="move" value="0939380"/>
- <Slide src="thumb/IS1000d.1592.16__1601.27.jpg" target="media" attribute="move" value="1582160"/>
- <Slide src="thumb/IS1000d.1601.27__2628.71.jpg" target="media" attribute="move" value="1591270"/>
-</Column>

@@ -1,8 +1,0 @@
-Findings 2
-Most Relevant functions
-Channel selection
-Volume selection
-Q Power
-Teletext flipping pages included
-II One-time-use functions
-Real Reaction

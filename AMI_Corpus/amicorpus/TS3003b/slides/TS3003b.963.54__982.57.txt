@@ -1,6 +1,0 @@
-LED
-Findings
-Conductive
-
-Simple devvce
-Real Reaction

@@ -1,6 +1,0 @@
-
-The chip can detect when a key is
-sequence something like morse code,
-a different sequence for each different
-The chip sends that signal out to the
-Real Reaction

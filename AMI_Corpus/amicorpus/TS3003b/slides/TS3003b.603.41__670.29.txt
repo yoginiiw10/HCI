@@ -1,7 +1,0 @@
-Method
-General functions of a RC internet
-Thinking about an simple manner to put a
-lot of functions in one, but user-friendly
-RCII
-
-Real Reaction

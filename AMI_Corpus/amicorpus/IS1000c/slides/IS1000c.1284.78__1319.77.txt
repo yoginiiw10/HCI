@@ -1,9 +1,0 @@
-Components
-List of components
-TAl1835, 18 pin Dual
-integrated circuit chip
-and a capacitor, battery, contacts,
-FPGA VLSI high tech hardware
-Circuit board, set of buttons, infrared
-LED.
-Real Reaction

@@ -1,7 +1,0 @@
-Components
-Energy sour,
-Receiver
-sender
-Energy source
-Infrared bulb
-Real React
