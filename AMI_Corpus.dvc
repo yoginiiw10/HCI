@@ -1,0 +1,6 @@
+outs:
+- md5: 76d6ecea9619bd52b6a4ee6d98524d19.dir
+  size: 924465069
+  nfiles: 1372
+  hash: md5
+  path: AMI_Corpus

@@ -1,0 +1,4 @@
+[core]
+    remote = hci
+['remote "hci"']
+    url = azure://hci
