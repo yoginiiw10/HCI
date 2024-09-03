@@ -1,0 +1,8 @@
+Method
+II User presses a button
+Remote determines what button and
+sends an Infrared signal to the TV
+The TV receives the signal and switches to
+another frequency
+
+Real Reaction

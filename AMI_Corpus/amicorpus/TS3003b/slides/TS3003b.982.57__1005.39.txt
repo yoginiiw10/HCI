@@ -1,0 +1,4 @@
+Switch Energy source Bulb
+Infrared bulb
+Subcomponent
+Real Reaction

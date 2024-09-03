@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<Info xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CreationDate>2006-06-29T15:42:55.1718750+01:00</CreationDate>
+  <Comments>Created by the XML Converter Plugin</Comments>
+  <Document>
+    <FileName>C:\Program Files\Common Files\Logitech\io2SoftwareSdk\PenFiles\ES2002.p4_Page032_13.12.2004.pen</FileName>
+    <Subject>C:\Program Files\Common Files\Logitech\io2SoftwareSdk\PenFiles\ES2002.p4_Page032_13.12.2004.pen</Subject>
+    <Layer>
+      <StartDate>2004-12-13T10:48:02.0000000-00:00</StartDate>
+      <EndDate>2004-12-13T10:48:02.0000000-00:00</EndDate>
+      <Duration>0</Duration>
+      <StrokeCount>1</StrokeCount>
+      <PageNum>1</PageNum>
+      <Stroke>
+        <StrokeIdx>0</StrokeIdx>
+        <ID>0</ID>
+        <StartDate>2004-12-13T10:48:02.0000000-00:00</StartDate>
+        <StartMs>0</StartMs>
+        <Duration>253</Duration>
+        <Color>-16776961</Color>
+        <Width>1</Width>
+        <Points>
+          <X>4.375</X>
+          <Y>6.125</Y>
+        </Points>
+        <Points>
+          <X>4.5</X>
+          <Y>5.625</Y>
+        </Points>
+        <Points>
+          <X>4.5</X>
+          <Y>5.625</Y>
+        </Points>
+        <Points>
+          <X>4.625</X>
+          <Y>5.75</Y>
+        </Points>
+        <Points>
+          <X>5</X>
+          <Y>6</Y>
+        </Points>
+        <Points>
+          <X>5.875</X>
+          <Y>7.25</Y>
+        </Points>
+        <Points>
+          <X>7.625</X>
+          <Y>10.25</Y>
+        </Points>
+        <Points>
+          <X>7.75</X>
+          <Y>10</Y>
+        </Points>
+        <Forces>00:00:28:34:46:52:68:70:</Forces>
+      </Stroke>
+    </Layer>
+  </Document>
+</Info>

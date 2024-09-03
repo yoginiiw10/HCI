@@ -1,0 +1,18 @@
+Personal
+Preferences
+
+1 SBAUD
+vR LEC P
+OKHz 4- 14. 12 UID VDD 1
+
+CTS
+4- DTR
+471F 4- 9V BAT
+15 DSR
+UI CD4093B
+IR emitters XC880Nequiv.
+U2 CD4013B
+All diodes IN914tequlv
+IR232 Serial to infrared remote converter
+John H DuBols III ohnarrno corn Dec 1 991
+Real Reacti

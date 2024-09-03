@@ -1,0 +1,22 @@
+Personal
+Preferences
+D3 R1 4100K MPSA13
+
+1 SBAUD
+LED1
+IR LED
+
+KHz 4. 1,1. UTD VOD
+CTS
+
+DTRo
+471F 9V BAT
+15 DSR
+Ul CD4093B
+IR emitters XC880Nequiv.
+U2 CD4013B
+All diodes INg141equlv
+CDg-
+IR232 Serial to infrared remote converter
+John H DuBois III ohnarmo COFTI Dec 1 991
+Real Reacti

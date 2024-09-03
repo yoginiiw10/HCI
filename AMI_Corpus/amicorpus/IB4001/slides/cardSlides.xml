@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Cards title="Slides" name="media" attribute="time" xmlns="ch.idiap.jferret.plugin" >
+ <Slide src="thumb/IB4001-1.76__32.49.jpg" width="460" target="media" attribute="move" value="0000000"/>
+ <Slide src="thumb/IB4001-32.49__61.62.jpg" width="460" target="media" attribute="move" value="0022490"/>
+ <Slide src="thumb/IB4001-61.62__87.61.jpg" width="460" target="media" attribute="move" value="0051620"/>
+ <Slide src="thumb/IB4001-87.61__119.99.jpg" width="460" target="media" attribute="move" value="0077610"/>
+ <Slide src="thumb/IB4001-119.99__158.22.jpg" width="460" target="media" attribute="move" value="0109990"/>
+ <Slide src="thumb/IB4001-158.22__294.28.jpg" width="460" target="media" attribute="move" value="0148220"/>
+ <Slide src="thumb/IB4001-294.28__324.28.jpg" width="460" target="media" attribute="move" value="0284280"/>
+ <Slide src="thumb/IB4001-324.28__346.03.jpg" width="460" target="media" attribute="move" value="0314280"/>
+ <Slide src="thumb/IB4001-346.03__440.53.jpg" width="460" target="media" attribute="move" value="0336030"/>
+ <Slide src="thumb/IB4001-440.53__670.35.jpg" width="460" target="media" attribute="move" value="0430530"/>
+ <Slide src="thumb/IB4001-670.35__770.04.jpg" width="460" target="media" attribute="move" value="0660350"/>
+ <Slide src="thumb/IB4001-770.04__1067.28.jpg" width="460" target="media" attribute="move" value="0760040"/>
+ <Slide src="thumb/IB4001-1067.28__1600.52.jpg" width="460" target="media" attribute="move" value="1057280"/>
+ <Slide src="thumb/IB4001-1600.52__1664.98.jpg" width="460" target="media" attribute="move" value="1590520"/>
+ <Slide src="thumb/IB4001-1664.98__1673.82.jpg" width="460" target="media" attribute="move" value="1654980"/>
+ <Slide src="thumb/IB4001-1673.82__1705.62.jpg" width="460" target="media" attribute="move" value="1663820"/>
+ <Slide src="thumb/IB4001-1705.62__1756.90.jpg" width="460" target="media" attribute="move" value="1695620"/>
+ <Slide src="thumb/IB4001-1756.90__1761.96.jpg" width="460" target="media" attribute="move" value="1746900"/>
+ <Slide src="thumb/IB4001-1761.96__1791.12.jpg" width="460" target="media" attribute="move" value="1751960"/>
+</Cards>
