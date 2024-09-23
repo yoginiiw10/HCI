@@ -23,6 +23,12 @@ The system personalizes learning experiences, particularly in language education
 - **Inclusive Learning**: Addresses diverse needs by integrating multiple modalities.
 - **Enhanced Learning Outcomes**: Aims to improve student performance and retention.
 
+##Workflow
+
+![image](https://github.com/user-attachments/assets/bbe3c17d-f666-4651-9a8f-56e0053459c2)
+
+
+
 ## Motivation
 
 Despite advancements in multimodal AI and HCI systems, current educational tools often lack seamless integration across multiple modalities. Most solutions either focus on a single modality or fail to dynamically adapt to students' real-time emotional and cognitive states. The application of these technologies in language learning, particularly with real-time adaptive feedback, remains underexplored. Our project fills this gap by developing a holistic system that incorporates text, voice, and facial expression analysis to enhance personalized learning.
