@@ -23,7 +23,7 @@ The system personalizes learning experiences, particularly in language education
 - **Inclusive Learning**: Addresses diverse needs by integrating multiple modalities.
 - **Enhanced Learning Outcomes**: Aims to improve student performance and retention.
 
-##Workflow
+## Workflow
 
 ![image](https://github.com/user-attachments/assets/bbe3c17d-f666-4651-9a8f-56e0053459c2)
 
